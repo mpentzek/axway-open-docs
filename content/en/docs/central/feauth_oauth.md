@@ -43,8 +43,7 @@ Possible OAuth providers are:
 
 * OAuth  Provider 1
 * OAuth Provider 2
-
-
+* OAuth provider 3
 
 ### Create an application profile
 
