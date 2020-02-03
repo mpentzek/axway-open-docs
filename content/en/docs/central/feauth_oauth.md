@@ -39,6 +39,13 @@ To use the proxy, the provider must first set up a third-party OAuth server with
 
 {{< alert title="Note" >}}The AMPLIFY Central OAuth proxy support is RFC 7662 compliant and it should work with any standard OAuth 2.0 authorization server. At this time, Okta is the only verified supported third-party OAuth provider. See more detailed configuration examples showing Okta as an integrated (external) authorization server in [Okta documentation](https://developer.okta.com/docs/guides/customize-authz-server/overview/).{{< /alert >}}
 
+Possible OAuth providers are:
+
+* OAuth  Provider 1
+* OAuth Provider 2
+
+
+
 ### Create an application profile
 
 After you have created an application within your third-party OAuth server, you must create an application profile to use your secured proxy.
